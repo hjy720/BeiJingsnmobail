@@ -1,0 +1,97 @@
+    .fz_titlewL {
+        width: 50%;
+        margin-left: 50px;
+        padding-bottom: 114px;
+        letter-spacing: 2px;
+    }
+    
+    .titley_f {
+        width: 100%;
+        font-size: 1.7rem;
+        color: green;
+        text-align: center;
+        padding-bottom: 10px;
+        letter-spacing: 1px;
+    }
+    
+    .rtitley {
+        font-size: 1.7rem;
+        color: red;
+        padding-bottom: 10px;
+        font-weight: 600;
+        text-align: center;
+    }
+    
+    .titley {
+        font-size: 1.7rem;
+        color: red;
+        font-weight: 600;
+        text-align: center;
+        margin-top: 395px;
+    }
+    
+    .jianjied_p {
+        width: 96%;
+        font-size: 1.6rem;
+        text-indent: 36px;
+        line-height: 30px;
+        left: 14px;
+        position: absolute;
+        letter-spacing: 2px;
+    }
+    
+    .title_p {
+        width: 96%;
+        font-size: 1.6rem;
+        text-indent: 36px;
+        line-height: 30px;
+        top: 600px;
+        left: 14px;
+        position: absolute;
+        letter-spacing: 2px;
+    }
+    
+    .intro_footer {
+        width: 100%;
+        height: 305px;
+        position: absolute;
+        top: 1350px;
+        background: #f5f7f9;
+    }
+    
+    .intro_footer_title {
+        font-size: 1.6rem;
+        letter-spacing: 1px;
+        margin-left: 112px;
+    }
+    
+    .intro_footer_title2 {
+        font-size: 1.6rem;
+        letter-spacing: 1px;
+        margin-left: -54px;
+    }
+    
+    @media screen and (min-device-width: 1368px) and (max-device-width: 1920px) {
+        .titley {
+            font-size: 1.7rem;
+            color: red;
+            font-weight: 600;
+            top: 10px;
+            left: 448px;
+            position: absolute;
+        }
+        .title_p {
+            width: 96%;
+            font-size: 1.6rem;
+            text-indent: 36px;
+            line-height: 30px;
+            top: 450px;
+            left: 14px;
+            position: absolute;
+            letter-spacing: 2px;
+        }
+    }
+    
+    @viewport {
+        width: device-width;
+    }
